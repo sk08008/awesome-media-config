@@ -21,4 +21,4 @@ spring:
 logging:
     file: log/spring.log
     
-name: sk08008tt
+name: sk08008
